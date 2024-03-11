@@ -1,0 +1,43 @@
+# Directorios de node_modules
+node_modules/
+
+# Archivos de configuración específicos del entorno
+.env
+.env.local
+.env.development
+.env.production
+
+# Archivos de caché
+npm-cache/
+
+# Archivos de prueba
+test/
+
+# Archivos de compilación
+dist/
+
+# Archivos temporales
+tmp/
+
+# Archivos de registro
+logs/
+
+# Archivos de cobertura de código
+coverage/
+
+# Archivos IDE
+.idea/
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+
+# Archivos de subidas
+uploads/
+
+# Archivos de imágenes generadas
+public/images/generated/
+
+# Cualquier otro archivo o directorio que no deba ser versionado
